@@ -1,2 +1,2 @@
 # OpenVPN
-an app with  https://github.com/keeshux
+An app from  https://github.com/keeshux
